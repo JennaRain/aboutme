@@ -1,0 +1,19 @@
+h1 {
+  text-align: left;
+  color: rgb(197, 195, 212);
+  font-family: "Lobster", cursive;
+}
+
+h2 {
+  font-family: fantasy;
+  color: rgb(197, 195, 212);
+}
+
+body {
+  font-family: fantasy;
+  color: rgb(197, 195, 212);
+}
+
+span {
+  font-size: 120%;
+}

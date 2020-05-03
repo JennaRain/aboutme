@@ -1,2 +1,0 @@
-# aboutme
-Created with CodeSandbox
